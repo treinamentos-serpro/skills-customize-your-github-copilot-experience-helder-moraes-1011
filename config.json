@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "file-organizer",
+      "title": "File Organizer with Python",
+      "description": "Organize files into folders by extension using Python's standard library.",
+      "path": "assignments/file-organizer",
+      "dueDate": "2026-11-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
